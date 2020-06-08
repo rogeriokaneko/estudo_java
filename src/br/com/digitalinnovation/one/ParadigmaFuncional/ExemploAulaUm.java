@@ -1,8 +1,8 @@
-package br.com.digitalinnovation.one;
+package br.com.digitalinnovation.one.ParadigmaFuncional;
 
 import java.util.function.UnaryOperator;
 
-public class ExemplosAula {
+public class ExemploAulaUm {
 
     public static void main(String[] args){
         UnaryOperator<Integer> calcularValorVezesTres = valor -> valor * 3;
