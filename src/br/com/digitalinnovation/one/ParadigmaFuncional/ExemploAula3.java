@@ -1,6 +1,6 @@
 package br.com.digitalinnovation.one.ParadigmaFuncional;
 
-public class ExemploAulaTres {
+public class ExemploAula3 {
 
     public static void main(String[] args) {
 

@@ -4,7 +4,7 @@ import java.util.Arrays;
 import java.util.function.BiPredicate;
 import java.util.function.UnaryOperator;
 
-public class ExemploAulaDois {
+public class ExemploAula2 {
 
     public static void main(String[] args) {
         int[] valores = {1,2,3,4};
