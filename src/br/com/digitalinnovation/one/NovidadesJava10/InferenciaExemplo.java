@@ -54,6 +54,7 @@ public class InferenciaExemplo {
     //variaveis locais inicializadas
     //variavel suporte do enhanced for
     //variavel suporte do for iterativo
+    //variavel try with resource
 
     /*******************Não Consegue**************************/
     //var nao pode ser utilizado em nivel de classe;
